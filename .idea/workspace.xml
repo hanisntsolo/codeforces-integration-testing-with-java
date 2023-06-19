@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae711f6f-209c-4522-83e3-8422fb88b795" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RCTkI1SaS96HCGOrJ8uu8WwffC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/CAPGEMINI/Sprint 03" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46206897" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegrationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="integration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeforces.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codeforces.integration.IntegrationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.IntegrationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae711f6f-209c-4522-83e3-8422fb88b795" name="Default Changelist" comment="" />
+      <created>1686753204281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686753204281</updated>
+      <workItem from="1686753205394" duration="5722000" />
+      <workItem from="1686758983260" duration="1795000" />
+      <workItem from="1686761206501" duration="176000" />
+      <workItem from="1686762458654" duration="15228000" />
+      <workItem from="1686777854412" duration="184000" />
+      <workItem from="1687148599909" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1686769372478">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1686769372478" />
+    <state x="792" y="288" key="FileChooserDialogImpl" timestamp="1687148785134">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="792" y="288" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1687148785134" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom" timestamp="1686777842118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1686777842118" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center" timestamp="1686777842118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="191" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1686777842118" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left" timestamp="1686777842118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="191" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1686777842118" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right" timestamp="1686777842118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="191" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1686777842118" />
+    <state width="1877" height="780" key="GridCell.Tab.1.bottom" timestamp="1686777842118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="780" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1686777842118" />
+    <state width="1877" height="780" key="GridCell.Tab.1.center" timestamp="1686777842118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="780" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1686777842118" />
+    <state width="1877" height="780" key="GridCell.Tab.1.left" timestamp="1686777842118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="780" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1686777842118" />
+    <state width="1877" height="780" key="GridCell.Tab.1.right" timestamp="1686777842118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="780" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1686777842118" />
+    <state x="540" y="282" key="IDE.errors.dialog" timestamp="1686777819689">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="282" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1686777819689" />
+    <state x="750" y="270" key="RollbackChangesDialog" timestamp="1686777944680">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="750" y="270" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1686777944680" />
+    <state x="492" y="108" key="SettingsEditor" timestamp="1686763041893">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="492" y="108" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1686763041893" />
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1687149005292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1687149005292" />
+    <state x="690" y="300" key="extract.method.dialog" timestamp="1686771388526">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="300" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1686771388526" />
+    <state x="667" y="139" width="585" height="801" key="find.popup" timestamp="1686775255623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="139" width="585" height="801" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1686775255623" />
+    <state x="739" y="252" key="git4idea.branch.GitSmartOperationDialog" timestamp="1687148704431">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="252" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1687148704431" />
+    <state x="826" y="405" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1686754247840">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="826" y="405" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1920.1080@0.0.1920.1080" timestamp="1686754247840" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1686766388841">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1686766388841" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1686768583901">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1686768583901" />
+  </component>
+</project>

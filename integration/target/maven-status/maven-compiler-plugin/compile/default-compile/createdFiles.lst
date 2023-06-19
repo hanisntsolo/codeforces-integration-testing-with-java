@@ -1,0 +1,8 @@
+com\codeforces\integration\codeforcesapi\CodeForcesConstants.class
+com\codeforces\integration\codeforcesapicontroller\CodeForcesApi.class
+com\codeforces\integration\codeforcesapi\RequestGenerator.class
+com\codeforces\integration\apihandler\RequestEncoding.class
+com\codeforces\integration\codeforcesapi\CodeForcesResponse.class
+com\codeforces\integration\IntegrationApplication.class
+com\codeforces\integration\codeforcesapi\CodeForcesMethods.class
+com\codeforces\integration\hashgenerator\RequestHashGenerator.class
